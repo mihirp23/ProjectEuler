@@ -5,7 +5,7 @@
  *          whose values do not exceed four million, find the 
  *          sum of even-valued terms.
  */
-public class EvenFibonnaci {
+public class EvenFibonacci {
 	/* ------------------------------- main() ------------------------------ */
 	public static void main (String [] args) 
 	{
