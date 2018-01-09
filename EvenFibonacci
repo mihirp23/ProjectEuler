@@ -30,8 +30,8 @@ public class EvenFibonnaci {
 				sum = sum + fib;
 			}
 			// get next number in the fibonnaci sequence
-            i = i + 1;
-            fib = fibonacci(i);
+                        i = i + 1;
+                        fib = fibonacci(i);
 		}
 		
 		// display the computed sum
