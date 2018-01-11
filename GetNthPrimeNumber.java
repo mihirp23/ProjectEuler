@@ -29,13 +29,13 @@ public class GetNthPrimeNumber
     	// 1 and 2 are known primes
     	if (n == 1 || n == 2)
     	{
-    		return true;
+    	    return true;
     	}
     	
     	// negative numbers and even numbers are not primes
     	if (n < 1 || n % 2 == 0)
     	{
-    		return false;
+            return false;
     	}
     	
     	// brute force to determine primality by trying to divide the 
