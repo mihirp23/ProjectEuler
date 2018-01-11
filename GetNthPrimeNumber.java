@@ -44,7 +44,7 @@ public class GetNthPrimeNumber
     	{
     		if (n % i == 0)
     		{
-    			return false;
+    		    return false;
     		}
     	}
     	
