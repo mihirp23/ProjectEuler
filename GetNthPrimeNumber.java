@@ -1,7 +1,8 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/11/18
- *   Desc : Determine NTH prime number.
+ *    Author : Mihir Patel
+ *      Date : 1/11/18
+ *      Desc : Determine NTH prime number.
+ *   Problem : 7
  */
 public class GetNthPrimeNumber 
 {

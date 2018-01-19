@@ -1,10 +1,11 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/15/18
- *   Desc : Determine the Pythagorean triplet for which a + b + c 
- *          is equal to the specified TARGET. Pythagorean triplet
- *          is a set of three natural numbers a < b < c for
- *          which (a^2) + (b^2) = (c^2).
+ *    Author : Mihir Patel
+ *      Date : 1/15/18
+ *      Desc : Determine the Pythagorean triplet for which a + b + c 
+ *             is equal to the specified TARGET. Pythagorean triplet
+ *             is a set of three natural numbers a < b < c for
+ *             which (a^2) + (b^2) = (c^2).
+ *   Problem : 9
  */
 public class PythagoreanTriplet
 {

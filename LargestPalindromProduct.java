@@ -1,8 +1,9 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/9/18
- *   Desc : Determines the largest palindrome made from the 
- *          product of two 3-digit numbers.
+ *    Author : Mihir Patel
+ *      Date : 1/9/18
+ *      Desc : Determines the largest palindrome made from the 
+ *             product of two 3-digit numbers.
+ *   Problem : 4
  */
 public class LargestPalindromeProduct {
 	/* --------------------------- main() ------------------------------ */

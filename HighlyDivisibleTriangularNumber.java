@@ -1,7 +1,8 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/17/18
- *   Desc : Determine the lowest TriangularNumber with TARGET divisors.
+ *    Author : Mihir Patel
+ *      Date : 1/17/18
+ *      Desc : Determine the lowest TriangularNumber with TARGET divisors.
+ *   Problem : 12
  */
 public class HighlyDivisibleTriangularNumber 
 {

@@ -1,7 +1,8 @@
 /*
- * Name : Mihir Patel
- * Date : 1/28/18
- * Desc : Calculate the sum of all the multiples of 3 or 5 below 1000.
+ *    Name : Mihir Patel
+ *    Date : 1/28/18
+ *    Desc : Calculate the sum of all the multiples of 3 or 5 below 1000.
+ * Problem : 1
  */
 public class Multiples {
 	public static void main (String [] args) {

@@ -1,9 +1,10 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/16/18
- *   Desc : Determine the greatest product of four adjacent numbers in the 
- *          same direction (up, down, left, right, or diagonally) in the 
- *          given 20 x 20 grid.
+ *    Author : Mihir Patel
+ *      Date : 1/16/18
+ *      Desc : Determine the greatest product of four adjacent numbers in the 
+ *             same direction (up, down, left, right, or diagonally) in the 
+ *             given 20 x 20 grid.
+ *   Problem : 11
  */
 public class LargestProductInGrid 
 {

@@ -1,8 +1,9 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/10/18
- *   Desc : Finds the difference between the sum of the squares of the first 
- *          one hundred natural numbers and the square of the sum.
+ *    Author : Mihir Patel
+ *      Date : 1/10/18
+ *      Desc : Finds the difference between the sum of the squares of the first 
+ *             one hundred natural numbers and the square of the sum.
+ *   Problem : 6
  */
 public class SumSquareDifference 
 {

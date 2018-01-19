@@ -1,9 +1,10 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/9/18
- *   Desc : By considering the terms in the Fibonnaci Sequence
- *          whose values do not exceed four million, find the 
- *          sum of even-valued terms.
+ *    Author : Mihir Patel
+ *      Date : 1/9/18
+ *      Desc : By considering the terms in the Fibonnaci Sequence
+ *             whose values do not exceed four million, find the 
+ *             sum of even-valued terms.
+ *   Problem : 2
  */
 public class EvenFibonacci {
 	/* ------------------------------- main() ------------------------------ */

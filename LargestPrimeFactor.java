@@ -1,7 +1,8 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/9/18
- *   Desc : Determine the largest prime factor of NUM 
+ *    Author : Mihir Patel
+ *      Date : 1/9/18
+ *      Desc : Determine the largest prime factor of NUM 
+ *   Problem : 3
  */
 
 public class LargestPrimeFactor {

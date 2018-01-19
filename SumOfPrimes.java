@@ -1,7 +1,8 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/15/18
- *   Desc : Calculate the sum of the primes below the provided MAX_LIMIT.
+ *    Author : Mihir Patel
+ *      Date : 1/15/18
+ *      Desc : Calculate the sum of the primes below the provided MAX_LIMIT.
+ *   Problem : 10
  */
 
 public class SumOfPrimes 

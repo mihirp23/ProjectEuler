@@ -1,8 +1,9 @@
 /*
- * Author : Mihir Patel
- *   Date : 1/12/18
- *   Desc : Find the thirteen adjacent digits in the 1000-digit number 
- *          that have the greatest product.
+ *    Author : Mihir Patel
+ *      Date : 1/12/18
+ *      Desc : Find the thirteen adjacent digits in the 1000-digit number 
+ *             that have the greatest product.
+ *   Problem : 8
  */
 public class LargestProductInSeries 
 {
